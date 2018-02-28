@@ -1,5 +1,7 @@
 # cryptotracker_nodemcu
 
+![Screenshot](crypt.jpg)
+
 ## Hardware
 
 - NodeMcu: https://www.amazon.es/gp/product/B06Y1ZPNMS
